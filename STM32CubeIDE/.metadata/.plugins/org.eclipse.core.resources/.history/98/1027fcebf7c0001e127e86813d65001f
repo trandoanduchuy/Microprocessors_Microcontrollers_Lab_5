@@ -1,0 +1,12 @@
+/*
+ * software_timer.h
+ *
+ *  Created on: Feb 1, 2024
+ *      Author: Huy
+ */
+
+#define TICK	10
+
+void setTimer1(int duration);
+
+void timerRun(void);
